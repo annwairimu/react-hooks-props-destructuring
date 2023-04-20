@@ -299,11 +299,4 @@ whole component and looking for references to the props object.
 
 When we use destructuring, we can provide a **default value** for any prop keys
 we want, so that if the component doesn't receive those props from its parents,
-we can still render some default information.
-
-## Resources
-
-- [MDN on Object Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#Object_destructuring)
-- [Destructuring Objects blog post][destructuring]
-
-[destructuring]: https://ui.dev/object-array-destructuring/
+we can still render some default info
